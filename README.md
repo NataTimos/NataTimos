@@ -45,6 +45,12 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 ***
 
+### Sipmle counting game on React
+ 
+ ![gif image of index page](https://github.com/NataTimos/Counting-game-React/blob/main/count.gif)
+
+***
+
 🎓 
 ## I already have *several projects* that I have done as part of the courses:
 
