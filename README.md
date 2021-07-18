@@ -47,7 +47,7 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 ***
 
-### Sipmle counting game on React. <span style="color:red">text in red</span>    *press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
+### Sipmle counting game on React.  *press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
  
  ![gif image of index page](https://github.com/NataTimos/Counting-game-React/blob/main/count.gif)
 
@@ -55,9 +55,9 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 🎓 
 ## I already have *several projects* that I have done as part of the courses:
+[Nutritions](https://github.com/NataTimos/CS50-Final-Project-Nutritions), [Network](https://github.com/NataTimos/CS50-Web-Network), [Mail](https://github.com/NataTimos/CS50-Web-Mail), [Auction](https://github.com/NataTimos/CS50-Web-Commerce), [Wiki](https://github.com/NataTimos/CS50-Web-Wiki),  [MURKIT](https://natatimos.github.io/MURKIT/)  etc.
 
-<span>
-  <h3>Nitritions, Network, Mail, Auction, Wiki, MURKIT </h3>
+<span>  
   <a href="https://youtu.be/Y2jzpcygD6Y">
     <img src="https://i9.ytimg.com/vi/Y2jzpcygD6Y/mq1.jpg?sqp=CIyf0IcG&rs=AOn4CLAIiWm87Bh4uTwQeyaX6riTekOOIA" alt="Final CS50 project" width="400px">
   </a>
