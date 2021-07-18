@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  Turning time into code  ~~using google and such a mother~~  s pomoschyu gugla i kakot-to materi 😄
 
-## 😄 About me 
+## About me 
 
 ✌️ My name is Nata  I study web development on my own.
 
