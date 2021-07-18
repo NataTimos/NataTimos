@@ -1,5 +1,4 @@
-# 🙋 Welcome !
-### Hi there 👋
+# 🙋 Welcome ! 👋
 
 
 <!--
@@ -47,7 +46,8 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 ***
 
-### Sipmle counting game on React.  *press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
+# Sipmle counting [game on React](https://github.com/NataTimos/Counting-game-React).  
+*press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
  
  ![gif image of index page](https://github.com/NataTimos/Counting-game-React/blob/main/count.gif)
 
