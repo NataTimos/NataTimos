@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Turning time into code  ~~using google and such a mother~~  s pomoschyu gugla i kakot-to materi
+ Turning time into code  ~~using google and such a mother~~  s pomoschyu gugla i kakot-to materi 😄
 
 ## 😄 About me 
 
-✌️ My name is Nata, I am 37 years old. I finally decided who I will be when I grow up 😄 I study web development on my own.
+✌️ My name is Nata  I study web development on my own.
 
 ## 📈 GitHub Stats
 
