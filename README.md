@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Turning time into code  ~~using google and such a mother~~  s pomoschyu gugla i kakot-to materi 😄
+ Turning time into code  ~~using google and such a mother~~  s pomoschyu gugla i kakoy-to materi 😄
 
 ## About me 
 
