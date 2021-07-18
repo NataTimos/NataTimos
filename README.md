@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About me 
 
-✌️ My name is Nata  I study web development on my own.
+✌️ My name is Nata.  I study web development on my own.
 
 ## 📈 GitHub Stats
 
