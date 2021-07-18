@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ✌️ My name is Nata.  I study web development on my own.
 
+### Skills: Python Django JavaScript HTML CSS Bootstrap MySQL VSCode Git GitHub
+
 ## 📈 GitHub Stats
 
 [![NataTimos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataTimos&hide=contribs,prs&show_icons=true&theme=merko)](https://github.com/NataTimos/github-readme-stats)
@@ -45,7 +47,7 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 ***
 
-### Sipmle counting game on React.     *press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
+### Sipmle counting game on React. <span style="color:red">text in red</span>    *press* --> [Counting](https://natatimos.github.io/Counting-game-React/)
  
  ![gif image of index page](https://github.com/NataTimos/Counting-game-React/blob/main/count.gif)
 
