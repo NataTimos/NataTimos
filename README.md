@@ -59,7 +59,7 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 
 <span>  
   <a href="https://youtu.be/Y2jzpcygD6Y">
-    <img src="https://i9.ytimg.com/vi/Y2jzpcygD6Y/mq1.jpg?sqp=CIyf0IcG&rs=AOn4CLAIiWm87Bh4uTwQeyaX6riTekOOIA" alt="Final CS50 project" width="400px">
+    <img src="https://github.com/NataTimos/CS50-Final-Project-Nutritions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-02-10%20%D0%B2%2015.20.51.png" alt="Final CS50 project" width="400px">
   </a>
 </span>
 <span>
