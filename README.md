@@ -64,22 +64,22 @@ I am already doing the final project of the *CS50's Web Programming with Python 
 </span>
 <span>
   <a href="https://youtu.be/iybacr7EjFY">
-    <img src="https://i9.ytimg.com/vi/iybacr7EjFY/mq1.jpg?sqp=CLih0IcG&rs=AOn4CLA2RCE5oy7tG1ps3-RpF7eA3K3r0Q" alt="Network" width="400px">
+    <img src="https://github.com/NataTimos/CS50-Web-Network/blob/main/network.png" alt="Network" width="400px">
   </a>
 </span>
 <span>
   <a href="https://youtu.be/3BZ1Qn_BG6c">
-    <img src="https://i9.ytimg.com/vi/3BZ1Qn_BG6c/mq2.jpg?sqp=CLih0IcG&rs=AOn4CLBXv7FKpbn8vtYOcvYq0_SEnKLpKg" alt="Mail" width="400px">
+    <img src="https://github.com/NataTimos/CS50-Web-Mail/blob/main/mail.png" alt="Mail" width="400px">
   </a>
 </span>
 <span>
   <a href="https://youtu.be/Q3za2eeDuXI">
-    <img src="https://i9.ytimg.com/vi/Q3za2eeDuXI/mq2.jpg?sqp=CLih0IcG&rs=AOn4CLB6xIJ5JvvKJVn9DWswx14PSXQcxw" alt="Commerce" width="400px">
+    <img src="https://github.com/NataTimos/CS50-Web-Commerce/blob/main/commerce%201.png" alt="Commerce" width="400px">
   </a>
 </span>
 <span>
   <a href="https://youtu.be/1TFuKlTCAsw">
-    <img src="https://i9.ytimg.com/vi/1TFuKlTCAsw/mq2.jpg?sqp=CLih0IcG&rs=AOn4CLAupDYyENxE6SuBRBr4LM4KDCyIpg" alt="Wiki" width="400px">
+    <img src="https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png" alt="Wiki" width="400px">
   </a>
 </span>
 <span>
