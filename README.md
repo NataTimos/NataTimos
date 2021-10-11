@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-[![NataTimos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataTimos&hide=contribs,prs&show_icons=true&theme=merko)](https://github.com/NataTimos/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataTimos&count_private=true&hide=tsql&langs_count=7&theme=merko&layout=compact)
 
 #### I have completed all the lessons at the HTML academy 
